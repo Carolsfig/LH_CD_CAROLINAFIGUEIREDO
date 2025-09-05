@@ -1,0 +1,14 @@
+﻿Arquivo de requisitos para o Desafio de Ciência de Dados - Análise IMDB
+Core para manipulação e análise de dados
+pandas==2.2.2
+numpy==1.26.4
+Bibliotecas para visualização de dados
+matplotlib==3.8.4
+seaborn==0.13.2
+Biblioteca para Machine Learning
+scikit-learn==1.4.2
+Biblioteca para salvar/carregar o modelo
+joblib==1.4.2
+Para executar o Jupyter Notebook
+jupyter==1.0.0
+notebook==7.1.3
